@@ -1,0 +1,6 @@
+2024/10/19-14:08:58.176 49b4 Creating DB C:/Users/gabri/OneDrive/Documents/GADS2024/Semester2/Dark-Side/DarkSide/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/10/19-14:08:58.193 49b4 Reusing MANIFEST C:/Users/gabri/OneDrive/Documents/GADS2024/Semester2/Dark-Side/DarkSide/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/19-14:11:03.866 49b4 Level-0 table #5: started
+2024/10/19-14:11:03.880 49b4 Level-0 table #5: 1167 bytes OK
+2024/10/19-14:11:03.881 49b4 Delete type=0 #3
+2024/10/19-14:11:03.882 49b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
