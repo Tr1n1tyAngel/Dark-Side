@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal Projects/Dark-Side/DarkSide/Content/MainGame/Levels/DarkSide.umap",
+				"D:/Unreal Projects/Dark-Side/DarkSide/Content/MainGame/Blueprints/BP_SafeZone.uasset",
 				"C:/Users/gabri/OneDrive/Documents/GADS2024/Semester2/Dark-Side/DarkSide/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/gabri/OneDrive/Documents/GADS2024/Semester2/Dark-Side/DarkSide/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/gabri/OneDrive/Documents/GADS2024/Semester2/Dark-Side/DarkSide/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
